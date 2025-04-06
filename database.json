@@ -1,0 +1,56 @@
+{"profile1": {
+  "profileName": "Tina Anderson",
+  "profileImage": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1743668693/profile_wkmrtj.png",
+  "location": "Los Angeles, CA",
+  "about": "I'm a posititve person. I Love to travel and eat.\nAlways available for chat",
+  "followersNum": "60K",
+  "followingNum": "320",
+  "likes": "120K",
+
+  "followers": [
+    {
+      "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1743668690/followers-1_tr4pqe.png",
+      "name": "Sara"
+    },
+    {
+      "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1743668694/followers-2_vzleuj.png",
+      "name": "Kevin"
+    },
+    {
+      "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1743668693/followers-3_y8wy7r.png",
+      "name": "Emmy"
+    },
+    {
+      "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1743668695/followers-4_cm4ugh.png",
+      "name": "Jack"
+    },
+    {
+      "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1743668682/followers-5_akqfj1.png",
+      "name": "Maddie"
+    }
+  ],
+  "posts": [
+    {
+      "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1743668684/pic_1_a5xpch.jpg"
+    }, {
+      "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1743668683/pic_2_lcxmog.jpg"
+    }, {
+      "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1743668682/pic_3_j36gxu.jpg"
+    }, {
+      "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1743668690/pic_4_mqovxu.jpg"
+    }, {
+      "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1743668688/pic_5_bdyl72.jpg"
+    }, {
+      "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1743668694/pic_6_i8ll62.jpg"
+    }, {
+      "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1743668690/pic_7_qcmkf4.jpg"
+    }, {
+      "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1743668686/pic_8_d0bkti.jpg"
+    }, {
+      "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1743668689/pic_9_syf02n.jpg"
+    }
+  ]
+
+}
+
+}
